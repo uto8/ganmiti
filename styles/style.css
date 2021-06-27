@@ -1599,6 +1599,7 @@ header button span:last-child{
   position:absolute;
   z-index:10;
   transition:all 0.7s;
+height:100%;
 }
 .mobile-menu li{
   margin-bottom:30px;
